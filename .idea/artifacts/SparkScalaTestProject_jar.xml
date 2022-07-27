@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SparkScalaTestProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SparkScalaTestProject_jar</output-path>
+    <root id="archive" name="SparkScalaTestProject.jar">
+      <element id="module-output" name="SparkScalaTestProject" />
+      <element id="module-output" name="SparkScalaTestProject-build" />
+      <element id="extracted-dir" path="$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/typesafe/config/1.4.2/config-1.4.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.10/scala-library-2.12.10.jar" path-in-jar="/" />
+      <element id="library" level="module" name="sbt: unmanaged-sources-and-docs" module-name="SparkScalaTestProject" />
+    </root>
+  </artifact>
+</component>
