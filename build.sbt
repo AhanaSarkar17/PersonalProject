@@ -10,7 +10,8 @@ libraryDependencies ++= Seq(
   "com.typesafe" % "config" % "1.4.2",
   "org.apache.spark" %% "spark-core" % sparkVersion % Provided,
   "org.apache.spark" %% "spark-sql" % sparkVersion % Provided,
-  "org.apache.spark" %% "spark-hive" % sparkVersion % Provided
+  "org.apache.spark" %% "spark-hive" % sparkVersion % Provided,
+  "com.novocode" % "junit-interface" % "0.11" % "test"
 )
 
 //lazy val root = (project in file("."))
